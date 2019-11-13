@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="LambTagine">
+    <title>Lamb Tagine</title>
+    <shortdesc>This easy to make lamb tagine with sweet juicy apricots and tender butternut squash is a
+        winner with kids and makes for a delicious Middle Eastern family meal 
+        for toddlers through to teens and beyond</shortdesc>
+    <taskbody>
+        <context>
+            <p>Serves a family of 4 - 6</p>
+        </context>
+        <steps-unordered>
+            <step>
+                <cmd>You will need:</cmd>
+                <choicetable>
+                    <chrow>
+                        <choption>2tbsp</choption>
+                        <chdesc>olive oil</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1</choption>
+                        <chdesc>onion, finely diced</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>2</choption>
+                        <chdesc>carrots, finely diced</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>500g</choption>
+                        <chdesc>diced leg of lamb</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>2</choption>
+                        <chdesc>fat garlic cloves, crushed</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1/2tsp</choption>
+                        <chdesc>cumin</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1/2tsp</choption>
+                        <chdesc>ground ginger</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1/4tsp</choption>
+                        <chdesc>saffron strands</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1tsp</choption>
+                        <chdesc>ground cinnamin</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1tbsp</choption>
+                        <chdesc>honey</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>100g</choption>
+                        <chdesc>soft dried apricots, quartered</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1</choption>
+                        <chdesc>vegetable stock cube</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1</choption>
+                        <chdesc>small butternut squash, peeled, seeds removed and cut into 1cm dice</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption></choption>
+                        <chdesc>freshly chopped parsley and toasted pinenuts to serve (optional)</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+            <step>
+                <cmd>Heat the olive oil in a heavy-based pan and add the onion and carrot. 
+                    Cook for 3- 4 mins until softened.</cmd>
+            </step>
+            <step>
+                <cmd>Add the diced lamb and brown all over. Stir in the garlic and all the spices 
+                    and cook for a few mins more or until the aromas are released.</cmd>
+            </step>
+            <step>
+                <cmd>Add the honey and apricots, crumble in the stock cube and pour over 
+                    roughly 500ml boiling water or enough to cover the meat. Give it a good stir and bring to the boil. 
+                    Turn down to a simmer, put the lid on and cook for 1 hour.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the lid and cook for a further 30 mins, then stir in the squash. Cook for 20 – 30 mins more 
+                    until the squash is soft and the lamb is tender. 
+                    Serve alongside rice or couscous and sprinkle with parsley and pine nuts, if using.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

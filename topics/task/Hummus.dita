@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="Hummus">
+    <title>Hummus</title>
+    <shortdesc>This creamy, rich hummus is made using just 5 ingredients and is ready in 10 minutes. Serve with crunchy seasonal veg or warm pitta breads </shortdesc>
+    <taskbody>
+        <context>
+            <p>Hummus is rich in healthy fats, vitamins and minerals</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>You will need:</cmd>
+                <choicetable>
+                    <chrow>
+                        <choption>400g can</choption>
+                        <chdesc>chickpeas</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>80ml</choption>
+                        <chdesc>extra virgin olive oil</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1 - 2</choption>
+                        <chdesc>garlic cloves</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1</choption>
+                        <chdesc>lemon</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>3tbsp</choption>
+                        <chdesc>tahini</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+            <step>
+                <cmd>Drain and thoroughly rinse the chickpeas in a colander under cold running water.</cmd>
+            </step>
+            <step>
+                <cmd>Tip into the large bowl of a food processor along with 60ml of the oil and blitz until almost smooth.</cmd>
+            </step>
+            <step>
+                <cmd>Add the garlic, lemon and tahini along with 30ml water.</cmd>
+            </step>
+            <step>
+                <cmd>Blitz again for about 5 mins, or until the hummus is smooth and silky.</cmd>
+            </step>
+            <step>
+                <cmd>Add 20ml more water, a little at a time, if it looks too thick.</cmd>
+            </step>
+            <step>
+                <cmd>Season and transfer to a bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Swirl the top of the hummus with the back of a dessert spoon and drizzle over the remaining oil. </cmd>
+            </step>
+            <step>
+                <cmd>Serve with crunchy crudités and toasted pitta bread, if you like</cmd>
+            </step>
+            
+        </steps>
+              
+    </taskbody>
+</task>

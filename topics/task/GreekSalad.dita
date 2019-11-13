@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="GreekSalad">
+    <title>How to make Greek Salad</title>
+    <shortdesc>Make a fresh and colourful Greek salad in no time. It's great with grilled meats at a barbecue, or on its own as a veggie main</shortdesc>
+    <taskbody>
+        <prereq>Use a good-quality olive oil and barrel matured feta cheese for best results</prereq>
+        <context>
+            <p>Serves 4 as a side, double quantities for a main course
+            </p>            
+        </context>
+        <steps>
+            <step>
+                <cmd>You will need:</cmd>
+                <choicetable>
+                    <chrow>
+                        <choption>4</choption>
+                        <chdesc>large vine tomatoes</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1</choption>
+                        <chdesc>cucumber</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1/2</choption>
+                        <chdesc>red onion</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>16</choption>
+                        <chdesc>Kalamata olives</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1tsp</choption>
+                        <chdesc>dried oregano</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>85g</choption>
+                        <chdesc>feta cheese</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>4tbsp</choption>
+                        <chdesc>Greek extra virgin olive oil</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+            <step>
+                <cmd>Chop tomatoes into irregular wedges</cmd>
+            </step>
+            <step>
+                <cmd>Peel and deseed the cucumber.  Chop roughly</cmd>
+            </step>
+            <step>
+                <cmd>Thinly slice red onion</cmd>
+              </step>
+            <step>
+                <cmd>Cut feta into chunks</cmd>
+            </step>
+            <step>
+                <cmd>Place all ingredients into a large bowl and mix gently to combine.</cmd>
+            </step>
+            <step>
+                <cmd>Lightly season, then serve with crusty bread to mop up all of the juices.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

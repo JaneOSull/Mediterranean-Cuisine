@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Countries_with_MC">
+    <title>Countries with Mediterranean Cuisine</title>
+    <shortdesc>A list of countries with Mediterranean Cuisine</shortdesc>
+    <refbody>
+        <table id="countries_table">
+            <tgroup cols="1">
+                <thead>
+                    <row rowsep="1">
+                        <entry colsep="1">Country</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Armenia</entry>
+                    </row>
+                    <row>
+                        <entry>Crete</entry>
+                    </row>
+                    <row>
+                        <entry>Egypt</entry>
+                    </row>
+                    <row>
+                        <entry>France</entry>
+                    </row>
+                    <row>
+                        <entry>Greece</entry>
+                    </row>
+                    <row>
+                        <entry>Italy</entry>
+                    </row>
+                    <row>
+                        <entry>Lebanon</entry>
+                    </row>
+                    <row>
+                        <entry>Morocco</entry>
+                    </row>
+                    <row>
+                        <entry>Spain</entry>
+                    </row>
+                    <row>
+                        <entry>Turkey</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+         </table>
+    </refbody>
+</reference>

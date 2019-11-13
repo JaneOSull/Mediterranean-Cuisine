@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="HarissaCouscous">
+    <title>Harissa Couscous</title>
+    <shortdesc>This couscous makes a delicious accompaniment to lamb tagine and any other Moroccan style spicy dish</shortdesc>
+    <taskbody>
+        <context>
+            <p>Easy recipe, serves 10 as a side</p>
+        </context>
+        <steps-unordered>
+            <step>
+                <cmd>You will need:</cmd>
+                <choicetable>
+                    <chrow>
+                        <choption>400g</choption>
+                        <chdesc>couscous</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1 bunch</choption>
+                        <chdesc>spring onions, finely sliced</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>3tbsp</choption>
+                        <chdesc>roughly chopped mint</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>250g</choption>
+                        <chdesc>halved cherry tomatoes</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>400ml</choption>
+                        <chdesc>hot vegetable stock</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>1tsp</choption>
+                        <chdesc>harissa paste</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption></choption>
+                        <chdesc>juice of a lemon</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+            <step>
+                <cmd>Tip couscous into a heatproof bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Add a spring onions, mint and cherry tomatoes.</cmd>
+            </step>
+            <step>
+                <cmd>Pour over hot vegetable stock mixed with harissa. Stir and cover with a plate. 
+                    Leave for 5 mins, then pour over olive oil and lemon juice and stir through.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

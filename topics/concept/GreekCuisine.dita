@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="greekCuisin">
+    <title>Greek Cuisine</title>
+    <shortdesc>Description of Greek Cuisine</shortdesc>
+    <conbody>
+        <p>Greek cuisine is a Mediterranean cuisine.  Contemporary Greek cookery makes wide use of vegetables, olive oil,
+            grains, fish, wine (white and red), and meat (including lamb, poultry, veal, beef, rabbit, and pork).</p>
+            <p>
+            Other important ingredients include olives, pasta (especially hilopites, a kind of pasta similar to tagliatelle), 
+            cheese, lemon juice, herbs, bread, and yogurt. The most commonly used grain is wheat; barley is also used. 
+            Common dessert ingredients include nuts, honey, fruits, and filo pastries. </p>
+            <p>It is strongly influenced by Ottoman cuisine and thus, (especially the cuisine of Anatolian Greeks), 
+            shares foods such as baklava, tzatziki, moussaka, dolmades, yuvarlakia and keftedes with Turkey and the neighbouring countries. 
+            It is also influenced by Italian cuisine and cuisines from the northern countries. Additionally, in specific regions 
+            it includes several kinds of pasta, like hilopites, goglies (goges) etc.</p>
+    </conbody>
+</concept>
